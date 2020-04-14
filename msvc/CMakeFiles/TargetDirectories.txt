@@ -1,0 +1,4 @@
+C:/Development/op3d_active/basis_universal-1.13/msvc/CMakeFiles/INSTALL.dir
+C:/Development/op3d_active/basis_universal-1.13/msvc/CMakeFiles/basisu.dir
+C:/Development/op3d_active/basis_universal-1.13/msvc/CMakeFiles/ALL_BUILD.dir
+C:/Development/op3d_active/basis_universal-1.13/msvc/CMakeFiles/ZERO_CHECK.dir
