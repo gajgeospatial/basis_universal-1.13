@@ -26,7 +26,7 @@
 #ifdef _MSC_VER
 #ifndef BASISU_NO_ITERATOR_DEBUG_LEVEL
 #if defined(_DEBUG) || defined(DEBUG)
-#define _ITERATOR_DEBUG_LEVEL 1
+//#define _ITERATOR_DEBUG_LEVEL 1
 #define _SECURE_SCL 1
 #else
 #define _SECURE_SCL 0
